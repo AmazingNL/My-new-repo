@@ -1,0 +1,56 @@
+html {
+    width: 100%;
+    height: 100%;
+}
+
+h1.emphasis {
+    font-size: 36px;
+    font-style: oblique;
+    background-color: aqua;
+    height: 2cm;
+    width: 20cm;
+    margin-left: 10cm;
+    padding-top: 1cm;
+    box-shadow: 20cm;
+    
+}
+
+h2.emphasis {
+    font-size: 30px;
+    background-color: blue;
+    width: 30cm;
+}
+
+h2.emphasis :hover {
+    background-color: black;
+    border-radius: 0;
+    padding: 20px 20px;
+    color: white;
+    transition: 1s ease-in-out;
+}
+
+.love {
+    font-size: 24px;
+    background-color: brown;
+    width: 30cm;
+}
+
+.lorem {
+    font-size: 14px;
+    background-color: aquamarine;
+    width: 30cm;
+}
+
+img {
+    
+}
+
+img.big{
+    width: 8cm;
+}
+img.medium{
+    width: 6cm;
+}
+img.small{
+    width: 4cm;
+}
